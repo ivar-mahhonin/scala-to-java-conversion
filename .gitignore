@@ -1,0 +1,5 @@
+**/*.class
+**/*.tasty
+.history
+.metals
+.vscode
